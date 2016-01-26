@@ -1,0 +1,14 @@
+div {
+	border: 10px solid #F781BE;
+	padding: 15px 10px 25px 40px;
+	margin: 10px;
+	background-color: #A4A4A4;
+}
+div p{
+	border: 3px #0B2F3A dotted;
+	text-align: center;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
